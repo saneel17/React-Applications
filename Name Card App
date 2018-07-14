@@ -1,3 +1,4 @@
+//Sample app where you can enter a github userName and it will give you a name card with the github profile Picture and Name.
 const Card =  (props) => {
     return (
       <div>
